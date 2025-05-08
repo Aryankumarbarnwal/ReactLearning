@@ -1,8 +1,26 @@
-# React + Vite
+# 📝 MegaBlog (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**MegaBlog** is a responsive blog interface built with **React.js**. It focuses on the frontend UI/UX of a modern blogging platform, allowing users to view, navigate, and interact with blog content (without backend/database functionality).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 📰 Stylish layout for blog listings and details
+- 📱 Fully responsive design (mobile-first)
+- ⚡ Fast navigation and clean user interface
+- 🧩 Reusable React components
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** (Functional components & hooks)
+- **React Router** (for navigation)
+- **CSS Modules** / **Tailwind CSS** / **Bootstrap** (whichever you used)
+- Optional: Placeholder data or static JSON files
+
+---
+
+## 📂 Project Structure
+
